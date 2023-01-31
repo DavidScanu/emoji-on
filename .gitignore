@@ -1,0 +1,7 @@
+venv
+.venv
+__pycache__
+.git
+
+
+fer2013-archive
