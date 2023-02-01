@@ -4,8 +4,8 @@
 
 ## Groupe
 
-- Geoffroy
-- Amadou
+- Geoffroy Daumer
+- Amadou Diaby
 - Ramata Soraya Dussart
 - David Scanu 
 
